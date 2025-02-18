@@ -3,7 +3,7 @@ A full-stack e-commerce project built with MySQL, Express, React and Node.
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/47c03d93-cdba-4624-b846-018c8169bf25)
+![fashionverse_homepage](https://github.com/user-attachments/assets/f4ee72c7-1225-412b-a0e8-b6df9ad96787)
 
 ![image](https://github.com/user-attachments/assets/c7193a2e-5eee-4949-9696-1094a8dd0b05)
 
